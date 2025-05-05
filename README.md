@@ -37,5 +37,5 @@ Cada pedido debe contar con una forma de envío que influye en el cálculo del c
 
 ## 🧪 Tests
 
-El archivo `Test.java` incluye múltiples casos de prueba para verificar la funcionalidad del sistema. Este archivo fue modificado **solo en los lugares indicados por `// TODO`** como lo requiere el enunciado.
+El archivo `Test.java` incluye múltiples casos de prueba para verificar la funcionalidad del sistema.
 
