@@ -69,5 +69,5 @@ Basta con **ejecutarlo** desde el IDE para ver el programa en funcionamiento, si
 
 ## 📬 Contacto
 
-Desarrollado por **Sabrina Laxeste**  
+Desarrollado por **Sabrina Lax**  
 [LinkedIn](https://www.linkedin.com/in/sabrinalax/)
