@@ -37,5 +37,5 @@ Cada pedido debe contar con una forma de envío que influye en el cálculo del c
 
 ## 🧪 Tests
 
-El archivo `Test.java` incluye múltiples casos de prueba para verificar la funcionalidad del sistema.
+El archivo Test.java incluye varios casos de prueba para verificar la funcionalidad del sistema. Solo es necesario ejecutarlo desde un IDE como IntelliJ o Eclipse para ver cómo funciona el programa, sin necesidad de ingresar datos manualmente.
 
